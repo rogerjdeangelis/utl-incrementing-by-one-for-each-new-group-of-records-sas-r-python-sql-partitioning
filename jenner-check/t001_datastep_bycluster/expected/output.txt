@@ -1,0 +1,11 @@
+
+  Obs  GRP  NAME  SCORE  CLUSTER
+-----  ---  ----  -----  -------
+    1    1  Adam      1       22
+    2    1  Eddy      0       22
+    3    1  Boby      9       22
+    4    2  Timy      2       26
+    5    2  Carl      9       26
+    6    3  Anna      0       33
+    7    4  Paul      5       35
+    8    5  Mike      7       51

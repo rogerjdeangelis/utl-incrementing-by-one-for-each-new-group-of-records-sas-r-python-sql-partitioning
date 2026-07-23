@@ -1,0 +1,21 @@
+NOTE: Option VALIDVARNAME changed to UPCASE.
+NOTE: DATA have
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote have (8 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA want
+
+
+NOTE: Read 8 rows from have.
+NOTE: Wrote want (8 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=want
+
+NOTE: PROC PRINT completed: 8 observations printed, 4 variables
