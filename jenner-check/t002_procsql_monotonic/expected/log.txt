@@ -1,0 +1,18 @@
+NOTE: Option VALIDVARNAME changed to UPCASE.
+NOTE: DATA have
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote have (8 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL
+
+NOTE: View grpUnq created.
+NOTE: Table sqlwant created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=sqlwant
+
+NOTE: PROC PRINT completed: 8 observations printed, 4 variables

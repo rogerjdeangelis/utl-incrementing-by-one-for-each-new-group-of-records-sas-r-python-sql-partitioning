@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_datastep_bycluster",
+  "source_file": "utl-incrementing-by-one-for-each-new-group-of-records-sas-r-python-sql-partitioning.sas",
+  "source_blob_sha": "51a0bb9432d515aa6f62ded97f38577e5b2ae088",
+  "source_commit": "17d0b33786453f23b6cfac21ffbed68700a68af7",
+  "notes": "Solution 1 (SAS datastep). Assigns a running group number per new CLUSTER value using BY CLUSTER NOTSORTED with grp=ifn(first.cluster,grp+1,grp). Author's cards4 data and logic verbatim; only edit is building HAVE in WORK instead of the hardcoded libname sd1 'd:/sd1'. Output GRP sequence 1,1,1,2,2,3,4,5 matches the author's documented WANT."
+}

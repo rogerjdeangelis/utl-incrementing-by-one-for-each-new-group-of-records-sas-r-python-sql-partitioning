@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-23T14:24:00Z",
+  "_captured_run_id": "r_607e2b5c8b684eaea46133bd3eefdd70",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 8 rows from DATALINES.",
+    "NOTE: View grpUnq created.",
+    "NOTE: Table sqlwant created.",
+    "NOTE: PROC PRINT completed: 8 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
